@@ -7,4 +7,4 @@ Music link: https://www.youtube.com/watch?v=06iGxO-NS2I
 This repository was made only for purpose of learning
 
 
-Doesn't sue me :) 
+Don't sue me :) 
