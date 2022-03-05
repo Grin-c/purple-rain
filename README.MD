@@ -1,4 +1,4 @@
-# purple-rain
+# Purple Rain
 
 A copy of the repository: https://github.com/servetgulnaroglu/ytb_purple_rain and video: https://www.youtube.com/watch?v=tx6Ocl6s-K0
 
